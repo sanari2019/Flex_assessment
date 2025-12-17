@@ -1,0 +1,192 @@
+[
+  {
+    "id": 7453,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 9.7,
+    "publicReview": "Absolutely loved this place! The location was perfect for exploring Shoreditch, and the apartment was spotlessly clean. Host was very responsive and helpful throughout our stay.",
+    "reviewCategory": [
+      {"category": "cleanliness", "rating": 10},
+      {"category": "communication", "rating": 10},
+      {"category": "respect_house_rules", "rating": 9},
+      {"category": "location", "rating": 10},
+      {"category": "value", "rating": 9}
+    ],
+    "submittedAt": "2024-11-15 14:30:00",
+    "guestName": "Sarah Mitchell",
+    "listingName": "2B N1 A - 29 Shoreditch Heights",
+    "listingId": "253093",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7454,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 8.4,
+    "publicReview": "Great apartment in a fantastic location. A few minor issues with the heating but overall a very comfortable stay. Would definitely recommend to friends visiting London.",
+    "reviewCategory": [
+      {"category": "cleanliness", "rating": 9},
+      {"category": "communication", "rating": 8},
+      {"category": "respect_house_rules", "rating": 9},
+      {"category": "location", "rating": 10},
+      {"category": "value", "rating": 7}
+    ],
+    "submittedAt": "2024-11-10 09:15:00",
+    "guestName": "Michael Chen",
+    "listingName": "1B E2 C - London Fields Loft",
+    "listingId": "253094",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7455,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 9.9,
+    "publicReview": "Exceptional experience from start to finish. The property exceeded our expectations in every way. Modern, stylish, and incredibly well-maintained. Perfect for a business trip or leisure stay.",
+    "reviewCategory": [
+      {"category": "cleanliness", "rating": 10},
+      {"category": "communication", "rating": 10},
+      {"category": "respect_house_rules", "rating": 10},
+      {"category": "location", "rating": 10},
+      {"category": "value", "rating": 9}
+    ],
+    "submittedAt": "2024-11-08 16:45:00",
+    "guestName": "Emma Thompson",
+    "listingName": "2B N1 A - 29 Shoreditch Heights",
+    "listingId": "253093",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7456,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 7.2,
+    "publicReview": "Decent place for the price. Location is good but the apartment could use some updates. Wi-Fi was a bit slow for remote work. Staff were helpful when we had questions.",
+    "reviewCategory": [
+      {"category": "cleanliness", "rating": 8},
+      {"category": "communication", "rating": 7},
+      {"category": "respect_house_rules", "rating": 8},
+      {"category": "location", "rating": 9},
+      {"category": "value", "rating": 6}
+    ],
+    "submittedAt": "2024-11-05 11:20:00",
+    "guestName": "David Rodriguez",
+    "listingName": "Studio SE1 B - Bankside Studio",
+    "listingId": "253095",
+    "channel": "Direct"
+  },
+  {
+    "id": 7457,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 9.5,
+    "publicReview": "Wonderful stay in the heart of London! The apartment was beautifully furnished and had everything we needed. Check-in was seamless and the location couldn't be better for tube access.",
+    "reviewCategory": [
+      {"category": "cleanliness", "rating": 10},
+      {"category": "communication", "rating": 9},
+      {"category": "respect_house_rules", "rating": 10},
+      {"category": "location", "rating": 10},
+      {"category": "value", "rating": 9}
+    ],
+    "submittedAt": "2024-11-01 13:00:00",
+    "guestName": "Jessica Park",
+    "listingName": "2B N1 A - 29 Shoreditch Heights",
+    "listingId": "253093",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7458,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 8.8,
+    "publicReview": "Really enjoyed our time here. The space was clean, modern, and comfortable. Only minor complaint was noise from the street on weekends, but earplugs solved that. Great value overall.",
+    "reviewCategory": [
+      {"category": "cleanliness", "rating": 9},
+      {"category": "communication", "rating": 9},
+      {"category": "respect_house_rules", "rating": 9},
+      {"category": "location", "rating": 9},
+      {"category": "value", "rating": 8}
+    ],
+    "submittedAt": "2024-10-28 10:30:00",
+    "guestName": "Thomas Anderson",
+    "listingName": "1B E2 C - London Fields Loft",
+    "listingId": "253094",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7459,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 9.1,
+    "publicReview": "Fantastic apartment! Very spacious for London standards. The kitchen was well-equipped and the bed was super comfortable. Would absolutely stay again on my next visit.",
+    "reviewCategory": [
+      {"category": "cleanliness", "rating": 9},
+      {"category": "communication", "rating": 10},
+      {"category": "respect_house_rules", "rating": 9},
+      {"category": "location", "rating": 9},
+      {"category": "value", "rating": 9}
+    ],
+    "submittedAt": "2024-10-25 15:45:00",
+    "guestName": "Olivia Martinez",
+    "listingName": "3B SW1 D - Westminster Terrace",
+    "listingId": "253096",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7460,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 8.0,
+    "publicReview": "Good experience overall. The apartment matched the photos and was in a convenient location. A few small maintenance issues but nothing major. Host was quick to respond to our messages.",
+    "reviewCategory": [
+      {"category": "cleanliness", "rating": 8},
+      {"category": "communication", "rating": 9},
+      {"category": "respect_house_rules", "rating": 8},
+      {"category": "location", "rating": 8},
+      {"category": "value", "rating": 7}
+    ],
+    "submittedAt": "2024-10-20 12:00:00",
+    "guestName": "James Wilson",
+    "listingName": "Studio SE1 B - Bankside Studio",
+    "listingId": "253095",
+    "channel": "Direct"
+  },
+  {
+    "id": 7461,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 9.8,
+    "publicReview": "Outstanding property! Every detail was thought through. Super clean, beautifully decorated, and in the best neighborhood. The concierge service was a nice touch. Highly recommend!",
+    "reviewCategory": [
+      {"category": "cleanliness", "rating": 10},
+      {"category": "communication", "rating": 10},
+      {"category": "respect_house_rules", "rating": 10},
+      {"category": "location", "rating": 10},
+      {"category": "value", "rating": 9}
+    ],
+    "submittedAt": "2024-10-15 17:20:00",
+    "guestName": "Sophia Lewis",
+    "listingName": "2B N1 A - 29 Shoreditch Heights",
+    "listingId": "253093",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7462,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 7.8,
+    "publicReview": "Nice place, decent location. The apartment was clean but felt a bit cramped for two people. Good for a short stay but might be tight for longer visits. WiFi was excellent though!",
+    "reviewCategory": [
+      {"category": "cleanliness", "rating": 8},
+      {"category": "communication", "rating": 8},
+      {"category": "respect_house_rules", "rating": 8},
+      {"category": "location", "rating": 8},
+      {"category": "value", "rating": 7}
+    ],
+    "submittedAt": "2024-10-10 09:30:00",
+    "guestName": "Daniel Kim",
+    "listingName": "1B E2 C - London Fields Loft",
+    "listingId": "253094",
+    "channel": "Booking.com"
+  }
+]

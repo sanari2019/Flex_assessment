@@ -1,0 +1,30 @@
+{
+  "name": "flex-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Flex Living Reviews API Backend",
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001",
+    "lint": "next lint",
+    "db:setup": "tsx scripts/setup-database.ts",
+    "db:seed": "tsx scripts/seed-reviews.ts"
+  },
+  "dependencies": {
+    "next": "^15.1.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "@vercel/postgres": "^0.10.0",
+    "date-fns": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "typescript": "^5.7.2",
+    "tsx": "^4.19.2",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^15.1.4"
+  }
+}
