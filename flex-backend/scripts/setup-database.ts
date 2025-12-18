@@ -1,15 +1,33 @@
-import { sql } from '@vercel/postgres';
+import { createClient } from '@vercel/postgres';
+import { config } from 'dotenv';
+import { resolve } from 'path';
+
+// Load environment variables from .env.local
+config({ path: resolve(__dirname, '../.env.local') });
+
+// Use non-pooling URL for direct connection
+const connectionString = process.env.POSTGRES_URL_NON_POOLING || process.env.POSTGRES_URL;
+
+if (!connectionString) {
+  console.error('❌ POSTGRES_URL not found in environment variables');
+  console.error('Make sure .env.local exists and contains POSTGRES_URL_NON_POOLING');
+  process.exit(1);
+}
 
 async function setupDatabase() {
   console.log('🔧 Setting up database...');
+  console.log('📍 Using database:', connectionString.split('@')[1]?.split('/')[0] || 'unknown');
+
+  const client = createClient({ connectionString });
+  await client.connect();
 
   try {
     // Drop existing table if needed (comment out in production)
-    // await sql`DROP TABLE IF EXISTS reviews CASCADE`;
+    // await client.sql`DROP TABLE IF EXISTS reviews CASCADE`;
     // console.log('✓ Dropped existing table');
 
     // Create reviews table
-    await sql`
+    await client.sql`
       CREATE TABLE IF NOT EXISTS reviews (
         id SERIAL PRIMARY KEY,
         hostaway_id INTEGER UNIQUE NOT NULL,
@@ -31,25 +49,25 @@ async function setupDatabase() {
     console.log('✓ Created reviews table');
 
     // Create indexes
-    await sql`
+    await client.sql`
       CREATE INDEX IF NOT EXISTS idx_listing_approved
       ON reviews(listing_id, approved_for_website)
     `;
     console.log('✓ Created index: idx_listing_approved');
 
-    await sql`
+    await client.sql`
       CREATE INDEX IF NOT EXISTS idx_approved_date
       ON reviews(approved_for_website, submitted_at DESC)
     `;
     console.log('✓ Created index: idx_approved_date');
 
-    await sql`
+    await client.sql`
       CREATE INDEX IF NOT EXISTS idx_channel
       ON reviews(channel)
     `;
     console.log('✓ Created index: idx_channel');
 
-    await sql`
+    await client.sql`
       CREATE INDEX IF NOT EXISTS idx_rating
       ON reviews(rating)
     `;
@@ -59,6 +77,8 @@ async function setupDatabase() {
   } catch (error) {
     console.error('❌ Error setting up database:', error);
     throw error;
+  } finally {
+    await client.end();
   }
 }
 

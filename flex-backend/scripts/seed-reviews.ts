@@ -1,8 +1,25 @@
-import { sql } from '@vercel/postgres';
+import { createClient } from '@vercel/postgres';
+import { config } from 'dotenv';
+import { resolve } from 'path';
 import mockReviews from '../lib/mockReviews.json';
+
+// Load environment variables from .env.local
+config({ path: resolve(__dirname, '../.env.local') });
+
+// Use non-pooling URL for direct connection
+const connectionString = process.env.POSTGRES_URL_NON_POOLING || process.env.POSTGRES_URL;
+
+if (!connectionString) {
+  console.error('❌ POSTGRES_URL not found in environment variables');
+  console.error('Make sure .env.local exists and contains POSTGRES_URL_NON_POOLING');
+  process.exit(1);
+}
 
 async function seedReviews() {
   console.log('🌱 Seeding database with mock reviews...');
+
+  const client = createClient({ connectionString });
+  await client.connect();
 
   try {
     let inserted = 0;
@@ -16,7 +33,7 @@ async function seedReviews() {
           categories[cat.category] = cat.rating;
         });
 
-        await sql`
+        await client.sql`
           INSERT INTO reviews (
             hostaway_id,
             listing_id,
@@ -63,7 +80,7 @@ async function seedReviews() {
     console.log(`   Skipped: ${skipped} reviews (duplicates)`);
 
     // Show summary
-    const { rows } = await sql`
+    const { rows } = await client.sql`
       SELECT
         COUNT(*) as total,
         AVG(rating) as avg_rating,
@@ -78,6 +95,8 @@ async function seedReviews() {
   } catch (error) {
     console.error('❌ Error seeding database:', error);
     throw error;
+  } finally {
+    await client.end();
   }
 }
 

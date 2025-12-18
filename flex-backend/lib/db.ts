@@ -1,5 +1,14 @@
-import { sql } from '@vercel/postgres';
+import { createClient } from '@vercel/postgres';
 import { Review, ReviewQueryParams } from './types';
+
+// Create a database client with the pooled connection string
+// Supabase uses port 6543 for pooling which @vercel/postgres createPool rejects
+// So we use createClient with the prisma URL instead
+function getClient() {
+  return createClient({
+    connectionString: process.env.POSTGRES_PRISMA_URL || process.env.POSTGRES_URL,
+  });
+}
 
 export async function getReviews(params: ReviewQueryParams = {}): Promise<Review[]> {
   const {
@@ -60,21 +69,42 @@ export async function getReviews(params: ReviewQueryParams = {}): Promise<Review
   queryParams.push(offset);
   query += ` OFFSET $${paramIndex++}`;
 
-  const { rows } = await sql.query(query, queryParams);
-  return rows as Review[];
+  const client = getClient();
+  await client.connect();
+
+  try {
+    const { rows } = await client.query(query, queryParams);
+    return rows as Review[];
+  } finally {
+    await client.end();
+  }
 }
 
 export async function getReviewById(id: number): Promise<Review | null> {
-  const { rows } = await sql.query('SELECT * FROM reviews WHERE id = $1', [id]);
-  return rows.length > 0 ? (rows[0] as Review) : null;
+  const client = getClient();
+  await client.connect();
+
+  try {
+    const { rows } = await client.query('SELECT * FROM reviews WHERE id = $1', [id]);
+    return rows.length > 0 ? (rows[0] as Review) : null;
+  } finally {
+    await client.end();
+  }
 }
 
 export async function updateReviewApproval(id: number, approved: boolean): Promise<Review | null> {
-  const { rows } = await sql.query(
-    'UPDATE reviews SET approved_for_website = $1, updated_at = NOW() WHERE id = $2 RETURNING *',
-    [approved, id]
-  );
-  return rows.length > 0 ? (rows[0] as Review) : null;
+  const client = getClient();
+  await client.connect();
+
+  try {
+    const { rows } = await client.query(
+      'UPDATE reviews SET approved_for_website = $1, updated_at = NOW() WHERE id = $2 RETURNING *',
+      [approved, id]
+    );
+    return rows.length > 0 ? (rows[0] as Review) : null;
+  } finally {
+    await client.end();
+  }
 }
 
 export async function calculateMetrics(reviews: Review[]) {
