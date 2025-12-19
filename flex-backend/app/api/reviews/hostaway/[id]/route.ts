@@ -3,10 +3,11 @@ import { getReviewById, updateReviewApproval } from '@/lib/db';
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
-    const id = parseInt(params.id);
+    const { id: idStr } = await params;
+    const id = parseInt(idStr);
     const review = await getReviewById(id);
 
     if (!review) {
@@ -28,10 +29,11 @@ export async function GET(
 
 export async function PATCH(
   request: NextRequest,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
   try {
-    const id = parseInt(params.id);
+    const { id: idStr } = await params;
+    const id = parseInt(idStr);
     const body = await request.json();
     const { approvedForWebsite } = body;
 
@@ -54,7 +56,7 @@ export async function PATCH(
     return NextResponse.json({
       success: true,
       data: updatedReview,
-      message: `Review ${approvedForWebsite ? 'approved' : 'unapproved'} for website`,
+      message: 'Review ' + (approvedForWebsite ? 'approved' : 'unapproved') + ' for website',
     });
   } catch (error) {
     console.error('Error updating review:', error);
