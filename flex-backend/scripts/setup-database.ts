@@ -16,9 +16,9 @@ if (!connectionString) {
 
 async function setupDatabase() {
   console.log('🔧 Setting up database...');
-  console.log('📍 Using database:', connectionString.split('@')[1]?.split('/')[0] || 'unknown');
+  console.log('📍 Using database:', connectionString!.split('@')[1]?.split('/')[0] || 'unknown');
 
-  const client = createClient({ connectionString });
+  const client = createClient({ connectionString: connectionString! });
   await client.connect();
 
   try {
