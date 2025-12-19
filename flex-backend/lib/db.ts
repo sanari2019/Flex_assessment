@@ -115,7 +115,10 @@ export async function calculateMetrics(reviews: Review[]) {
     };
   }
 
-  const totalRating = reviews.reduce((sum, r) => sum + (r.rating || 0), 0);
+  const totalRating = reviews.reduce((sum, r) => {
+    const rating = typeof r.rating === 'string' ? parseFloat(r.rating) : r.rating;
+    return sum + (rating || 0);
+  }, 0);
   const averageRating = totalRating / reviews.filter(r => r.rating !== null).length || 0;
 
   const categoryTotals: { [key: string]: { sum: number; count: number } } = {};
@@ -127,7 +130,8 @@ export async function calculateMetrics(reviews: Review[]) {
           if (!categoryTotals[category]) {
             categoryTotals[category] = { sum: 0, count: 0 };
           }
-          categoryTotals[category].sum += rating;
+          const numericRating = typeof rating === 'string' ? parseFloat(rating) : rating;
+          categoryTotals[category].sum += numericRating;
           categoryTotals[category].count += 1;
         }
       });

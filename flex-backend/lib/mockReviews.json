@@ -1,192 +1,5136 @@
 [
   {
-    "id": 7453,
+    "id": 7554,
     "type": "guest-to-host",
     "status": "published",
-    "rating": 9.7,
-    "publicReview": "Absolutely loved this place! The location was perfect for exploring Shoreditch, and the apartment was spotlessly clean. Host was very responsive and helpful throughout our stay.",
+    "rating": 4.8,
+    "publicReview": "Exceptional experience from start to finish. The property exceeded our expectations in every way. Modern, stylish, and incredibly well-maintained.",
     "reviewCategory": [
-      {"category": "cleanliness", "rating": 10},
-      {"category": "communication", "rating": 10},
-      {"category": "respect_house_rules", "rating": 9},
-      {"category": "location", "rating": 10},
-      {"category": "value", "rating": 9}
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
     ],
-    "submittedAt": "2024-11-15 14:30:00",
-    "guestName": "Sarah Mitchell",
-    "listingName": "2B N1 A - 29 Shoreditch Heights",
-    "listingId": "253093",
+    "submittedAt": "2025-12-17 16:38:44",
+    "guestName": "Samuel Green",
+    "listingName": "Appartement avec Vue sur la Tour Eiffel - The Flex Paris",
+    "listingId": "253203",
+    "channel": "Google"
+  },
+  {
+    "id": 7555,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.6,
+    "publicReview": "Outstanding property! Every detail was thought through. Super clean, beautifully decorated, and in the best neighborhood.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-12-14 16:38:44",
+    "guestName": "James Wilson",
+    "listingName": "Appartement avec Vue sur la Tour Eiffel - The Flex Paris",
+    "listingId": "253203",
     "channel": "Airbnb"
   },
   {
-    "id": 7454,
+    "id": 7558,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 3.2,
+    "publicReview": "Just okay. The apartment served its purpose but was quite basic. Price was fair for what you get.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 2
+      }
+    ],
+    "submittedAt": "2025-12-12 16:38:44",
+    "guestName": "Jackson Powell",
+    "listingName": "Appartement avec Vue sur la Tour Eiffel - The Flex Paris",
+    "listingId": "253203",
+    "channel": "Google"
+  },
+  {
+    "id": 7462,
     "type": "guest-to-host",
     "status": "published",
-    "rating": 8.4,
-    "publicReview": "Great apartment in a fantastic location. A few minor issues with the heating but overall a very comfortable stay. Would definitely recommend to friends visiting London.",
+    "rating": 2.9,
+    "publicReview": "Just okay. The apartment served its purpose but was quite basic. Price was fair for what you get.",
     "reviewCategory": [
-      {"category": "cleanliness", "rating": 9},
-      {"category": "communication", "rating": 8},
-      {"category": "respect_house_rules", "rating": 9},
-      {"category": "location", "rating": 10},
-      {"category": "value", "rating": 7}
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 2
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
     ],
-    "submittedAt": "2024-11-10 09:15:00",
-    "guestName": "Michael Chen",
-    "listingName": "1B E2 C - London Fields Loft",
-    "listingId": "253094",
+    "submittedAt": "2025-12-11 16:38:44",
+    "guestName": "Liam Sanders",
+    "listingName": "Luxury Shoreditch Loft - The Flex London",
+    "listingId": "253093",
     "channel": "Booking.com"
   },
   {
-    "id": 7455,
+    "id": 7495,
     "type": "guest-to-host",
     "status": "published",
-    "rating": 9.9,
-    "publicReview": "Exceptional experience from start to finish. The property exceeded our expectations in every way. Modern, stylish, and incredibly well-maintained. Perfect for a business trip or leisure stay.",
+    "rating": 3.5,
+    "publicReview": "Good experience overall. The apartment matched the photos and was in a convenient location. Host was quick to respond.",
     "reviewCategory": [
-      {"category": "cleanliness", "rating": 10},
-      {"category": "communication", "rating": 10},
-      {"category": "respect_house_rules", "rating": 10},
-      {"category": "location", "rating": 10},
-      {"category": "value", "rating": 9}
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
     ],
-    "submittedAt": "2024-11-08 16:45:00",
-    "guestName": "Emma Thompson",
-    "listingName": "2B N1 A - 29 Shoreditch Heights",
-    "listingId": "253093",
+    "submittedAt": "2025-12-11 16:38:44",
+    "guestName": "Jessica Park",
+    "listingName": "South Bank Penthouse - The Flex London",
+    "listingId": "253096",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7497,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.5,
+    "publicReview": "Comfortable apartment with a great location. Minor issues with WiFi but otherwise everything was good.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-12-10 16:38:44",
+    "guestName": "Elijah Barnes",
+    "listingName": "South Bank Penthouse - The Flex London",
+    "listingId": "253096",
+    "channel": "Google"
+  },
+  {
+    "id": 7579,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.5,
+    "publicReview": "Absolutely loved this place! The location was perfect and the apartment was spotlessly clean. Host was very responsive and helpful throughout our stay.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-12-10 16:38:44",
+    "guestName": "David Rodriguez",
+    "listingName": "Spacieux Appartement à Hydra - The Flex Algiers",
+    "listingId": "253301",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7557,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.7,
+    "publicReview": "Perfect location and absolutely beautiful apartment. Everything was exactly as described. The host was wonderful and very accommodating.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-12-08 16:38:44",
+    "guestName": "Aria Collins",
+    "listingName": "Appartement avec Vue sur la Tour Eiffel - The Flex Paris",
+    "listingId": "253203",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7599,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Wonderful stay! The apartment was beautifully furnished and had everything we needed. Check-in was seamless and the location couldn't be better.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-12-08 16:38:44",
+    "guestName": "Nora Howard",
+    "listingName": "Appartement Princier 3 pièces - The Flex Algiers",
+    "listingId": "253303",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7506,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.2,
+    "publicReview": "Solid choice for accommodation. The apartment was clean and had everything we needed. Check-in process was smooth.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-12-07 16:38:44",
+    "guestName": "Carter Patterson",
+    "listingName": "Bright Flat in Camberwell - The Flex London",
+    "listingId": "253097",
+    "channel": "Google"
+  },
+  {
+    "id": 7529,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.5,
+    "publicReview": "This place is incredible! Beautiful decor, spotlessly clean, and the perfect base for exploring the city.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-12-06 16:38:44",
+    "guestName": "Jackson Powell",
+    "listingName": "Luxueux Appartement Parisien - Champs-Élysées - The Flex Paris",
+    "listingId": "253201",
     "channel": "Airbnb"
   },
   {
-    "id": 7456,
+    "id": 7503,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 3.8,
+    "publicReview": "Good experience overall. The apartment matched the photos and was in a convenient location. Host was quick to respond.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-12-05 16:38:44",
+    "guestName": "Nora Howard",
+    "listingName": "Bright Flat in Camberwell - The Flex London",
+    "listingId": "253097",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7532,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 3.2,
+    "publicReview": "Adequate for a short stay. Clean but dated. The main advantage is the location which is very convenient.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 2
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 2
+      }
+    ],
+    "submittedAt": "2025-12-05 16:38:44",
+    "guestName": "Jack Turner",
+    "listingName": "Luxueux Appartement Parisien - Champs-Élysées - The Flex Paris",
+    "listingId": "253201",
+    "channel": "Direct"
+  },
+  {
+    "id": 7523,
     "type": "guest-to-host",
     "status": "published",
-    "rating": 7.2,
-    "publicReview": "Decent place for the price. Location is good but the apartment could use some updates. Wi-Fi was a bit slow for remote work. Staff were helpful when we had questions.",
+    "rating": 4.2,
+    "publicReview": "Nice place with good facilities. The location is excellent for getting around. Would recommend to friends.",
     "reviewCategory": [
-      {"category": "cleanliness", "rating": 8},
-      {"category": "communication", "rating": 7},
-      {"category": "respect_house_rules", "rating": 8},
-      {"category": "location", "rating": 9},
-      {"category": "value", "rating": 6}
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
     ],
-    "submittedAt": "2024-11-05 11:20:00",
-    "guestName": "David Rodriguez",
-    "listingName": "Studio SE1 B - Bankside Studio",
+    "submittedAt": "2025-12-03 16:38:44",
+    "guestName": "Nora Howard",
+    "listingName": "Appartement Cozy et central a Paris - The Flex Paris",
+    "listingId": "253200",
+    "channel": "Google"
+  },
+  {
+    "id": 7597,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.7,
+    "publicReview": "Exceptional experience from start to finish. The property exceeded our expectations in every way. Modern, stylish, and incredibly well-maintained.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-12-03 16:38:44",
+    "guestName": "Aurora Hughes",
+    "listingName": "Appartement Princier 3 pièces - The Flex Algiers",
+    "listingId": "253303",
+    "channel": "Direct"
+  },
+  {
+    "id": 7464,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.7,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-12-02 16:38:44",
+    "guestName": "Evelyn Russell",
+    "listingName": "Luxury Shoreditch Loft - The Flex London",
+    "listingId": "253093",
+    "channel": "Google"
+  },
+  {
+    "id": 7481,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.6,
+    "publicReview": "Couldn't have asked for a better place to stay. The apartment was pristine, modern, and in an excellent location.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-12-02 16:38:44",
+    "guestName": "Jackson Powell",
+    "listingName": "Notting Hill Townhouse - The Flex London",
     "listingId": "253095",
     "channel": "Direct"
   },
   {
-    "id": 7457,
+    "id": 7571,
     "type": "guest-to-host",
     "status": "published",
-    "rating": 9.5,
-    "publicReview": "Wonderful stay in the heart of London! The apartment was beautifully furnished and had everything we needed. Check-in was seamless and the location couldn't be better for tube access.",
+    "rating": 4.8,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
     "reviewCategory": [
-      {"category": "cleanliness", "rating": 10},
-      {"category": "communication", "rating": 9},
-      {"category": "respect_house_rules", "rating": 10},
-      {"category": "location", "rating": 10},
-      {"category": "value", "rating": 9}
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
     ],
-    "submittedAt": "2024-11-01 13:00:00",
-    "guestName": "Jessica Park",
-    "listingName": "2B N1 A - 29 Shoreditch Heights",
+    "submittedAt": "2025-12-02 16:38:44",
+    "guestName": "Matthew Taylor",
+    "listingName": "Spacieux Appartement à Hydra - The Flex Algiers",
+    "listingId": "253301",
+    "channel": "Direct"
+  },
+  {
+    "id": 7587,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 2.8,
+    "publicReview": "Fair value for money. The apartment was decent but could use better maintenance. Location was the main positive.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 2
+      }
+    ],
+    "submittedAt": "2025-11-30 16:38:44",
+    "guestName": "Charlotte Moore",
+    "listingName": "Appartement de luxe à Hydra - The Flex Algiers",
+    "listingId": "253302",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7598,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Outstanding property! Every detail was thought through. Super clean, beautifully decorated, and in the best neighborhood.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-11-29 16:38:44",
+    "guestName": "Thomas Anderson",
+    "listingName": "Appartement Princier 3 pièces - The Flex Algiers",
+    "listingId": "253303",
+    "channel": "Google"
+  },
+  {
+    "id": 7524,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 2.7,
+    "publicReview": "Okay apartment, nothing special. It was clean and functional but lacking character. Good for a short stay.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-11-28 16:38:44",
+    "guestName": "Noah Bennett",
+    "listingName": "Appartement Cozy et central a Paris - The Flex Paris",
+    "listingId": "253200",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7537,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.5,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-11-28 16:38:44",
+    "guestName": "Hannah Hall",
+    "listingName": "Luxueux Appartement Parisien - Champs-Élysées - The Flex Paris",
+    "listingId": "253201",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7570,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.1,
+    "publicReview": "Really enjoyed our time here. The space was clean, modern, and comfortable. Only minor complaint was noise on weekends.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-11-27 16:38:44",
+    "guestName": "Christopher Lee",
+    "listingName": "Luxueux 2 pièces rénové aux Sources - The Flex Algiers",
+    "listingId": "253300",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7556,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.8,
+    "publicReview": "This place is incredible! Beautiful decor, spotlessly clean, and the perfect base for exploring the city.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-11-25 16:38:44",
+    "guestName": "Hannah Hall",
+    "listingName": "Appartement avec Vue sur la Tour Eiffel - The Flex Paris",
+    "listingId": "253203",
+    "channel": "Google"
+  },
+  {
+    "id": 7465,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 3.3,
+    "publicReview": "Just okay. The apartment served its purpose but was quite basic. Price was fair for what you get.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 2
+      },
+      {
+        "category": "location",
+        "rating": 2
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-11-24 16:38:44",
+    "guestName": "Lily Nelson",
+    "listingName": "Covent Garden Studio - The Flex London",
+    "listingId": "253094",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7473,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.3,
+    "publicReview": "Pleasant stay in a good location. The apartment was as described and the host was helpful with recommendations.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-11-21 16:38:44",
+    "guestName": "Olivia Martinez",
+    "listingName": "Covent Garden Studio - The Flex London",
+    "listingId": "253094",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7551,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4,
+    "publicReview": "Nice stay overall. The apartment was well-maintained and the location was convenient. Would stay here again.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-11-20 16:38:44",
+    "guestName": "Sarah Mitchell",
+    "listingName": "Appartement avec Vue sur la Tour Eiffel - The Flex Paris",
+    "listingId": "253203",
+    "channel": "Direct"
+  },
+  {
+    "id": 7493,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.7,
+    "publicReview": "Exceptional experience from start to finish. The property exceeded our expectations in every way. Modern, stylish, and incredibly well-maintained.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-11-19 16:38:44",
+    "guestName": "Lily Nelson",
+    "listingName": "South Bank Penthouse - The Flex London",
+    "listingId": "253096",
+    "channel": "Google"
+  },
+  {
+    "id": 7492,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.7,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-11-16 16:38:44",
+    "guestName": "Elijah Barnes",
+    "listingName": "South Bank Penthouse - The Flex London",
+    "listingId": "253096",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7518,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.6,
+    "publicReview": "Exceptional experience from start to finish. The property exceeded our expectations in every way. Modern, stylish, and incredibly well-maintained.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-11-15 16:38:44",
+    "guestName": "James Wilson",
+    "listingName": "Appartement Cozy et central a Paris - The Flex Paris",
+    "listingId": "253200",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7520,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.7,
+    "publicReview": "Really enjoyed our time here. The space was clean, modern, and comfortable. Only minor complaint was noise on weekends.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-11-15 16:38:44",
+    "guestName": "Ryan Johnson",
+    "listingName": "Appartement Cozy et central a Paris - The Flex Paris",
+    "listingId": "253200",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7517,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-11-13 16:38:44",
+    "guestName": "Sebastian Ward",
+    "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London",
+    "listingId": "253098",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7526,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.1,
+    "publicReview": "Nice place with good facilities. The location is excellent for getting around. Would recommend to friends.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-11-13 16:38:44",
+    "guestName": "Nora Howard",
+    "listingName": "Appartement Cozy et central a Paris - The Flex Paris",
+    "listingId": "253200",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7453,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.1,
+    "publicReview": "Well-maintained apartment in a convenient area. Good value for money and the host was responsive.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-11-12 16:38:44",
+    "guestName": "Andrew White",
+    "listingName": "Luxury Shoreditch Loft - The Flex London",
     "listingId": "253093",
+    "channel": "Google"
+  },
+  {
+    "id": 7466,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.4,
+    "publicReview": "Lovely apartment with good amenities. Clean and comfortable. The area is great with lots of restaurants nearby.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-11-12 16:38:44",
+    "guestName": "Oliver Hughes",
+    "listingName": "Covent Garden Studio - The Flex London",
+    "listingId": "253094",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7580,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-11-11 16:38:44",
+    "guestName": "Andrew White",
+    "listingName": "Spacieux Appartement à Hydra - The Flex Algiers",
+    "listingId": "253301",
     "channel": "Airbnb"
   },
   {
     "id": 7458,
     "type": "guest-to-host",
     "status": "published",
-    "rating": 8.8,
-    "publicReview": "Really enjoyed our time here. The space was clean, modern, and comfortable. Only minor complaint was noise from the street on weekends, but earplugs solved that. Great value overall.",
+    "rating": 2.6,
+    "publicReview": "Average stay. The location was convenient but the apartment felt a bit cramped. WiFi was excellent though.",
     "reviewCategory": [
-      {"category": "cleanliness", "rating": 9},
-      {"category": "communication", "rating": 9},
-      {"category": "respect_house_rules", "rating": 9},
-      {"category": "location", "rating": 9},
-      {"category": "value", "rating": 8}
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 2
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
     ],
-    "submittedAt": "2024-10-28 10:30:00",
-    "guestName": "Thomas Anderson",
-    "listingName": "1B E2 C - London Fields Loft",
-    "listingId": "253094",
+    "submittedAt": "2025-11-10 16:38:44",
+    "guestName": "Emily Clark",
+    "listingName": "Luxury Shoreditch Loft - The Flex London",
+    "listingId": "253093",
+    "channel": "Direct"
+  },
+  {
+    "id": 7491,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Outstanding property! Every detail was thought through. Super clean, beautifully decorated, and in the best neighborhood.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-11-10 16:38:44",
+    "guestName": "Ava Brown",
+    "listingName": "South Bank Penthouse - The Flex London",
+    "listingId": "253096",
+    "channel": "Direct"
+  },
+  {
+    "id": 7540,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 2.6,
+    "publicReview": "Okay apartment, nothing special. It was clean and functional but lacking character. Good for a short stay.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 2
+      }
+    ],
+    "submittedAt": "2025-11-09 16:38:44",
+    "guestName": "Addison Foster",
+    "listingName": "Studio Moderne près du Louvre - The Flex Paris",
+    "listingId": "253202",
     "channel": "Booking.com"
   },
   {
-    "id": 7459,
+    "id": 7474,
     "type": "guest-to-host",
     "status": "published",
-    "rating": 9.1,
-    "publicReview": "Fantastic apartment! Very spacious for London standards. The kitchen was well-equipped and the bed was super comfortable. Would absolutely stay again on my next visit.",
+    "rating": 4.6,
+    "publicReview": "Perfect location and absolutely beautiful apartment. Everything was exactly as described. The host was wonderful and very accommodating.",
     "reviewCategory": [
-      {"category": "cleanliness", "rating": 9},
-      {"category": "communication", "rating": 10},
-      {"category": "respect_house_rules", "rating": 9},
-      {"category": "location", "rating": 9},
-      {"category": "value", "rating": 9}
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
     ],
-    "submittedAt": "2024-10-25 15:45:00",
-    "guestName": "Olivia Martinez",
-    "listingName": "3B SW1 D - Westminster Terrace",
-    "listingId": "253096",
+    "submittedAt": "2025-11-07 16:38:44",
+    "guestName": "Luna Myers",
+    "listingName": "Covent Garden Studio - The Flex London",
+    "listingId": "253094",
     "channel": "Airbnb"
   },
   {
-    "id": 7460,
+    "id": 7546,
     "type": "guest-to-host",
     "status": "published",
-    "rating": 8.0,
-    "publicReview": "Good experience overall. The apartment matched the photos and was in a convenient location. A few small maintenance issues but nothing major. Host was quick to respond to our messages.",
+    "rating": 3.2,
+    "publicReview": "Adequate for a short stay. Clean but dated. The main advantage is the location which is very convenient.",
     "reviewCategory": [
-      {"category": "cleanliness", "rating": 8},
-      {"category": "communication", "rating": 9},
-      {"category": "respect_house_rules", "rating": 8},
-      {"category": "location", "rating": 8},
-      {"category": "value", "rating": 7}
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 2
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 2
+      },
+      {
+        "category": "value",
+        "rating": 2
+      }
     ],
-    "submittedAt": "2024-10-20 12:00:00",
-    "guestName": "James Wilson",
-    "listingName": "Studio SE1 B - Bankside Studio",
-    "listingId": "253095",
-    "channel": "Direct"
+    "submittedAt": "2025-11-07 16:38:44",
+    "guestName": "Nathan Wright",
+    "listingName": "Studio Moderne près du Louvre - The Flex Paris",
+    "listingId": "253202",
+    "channel": "Google"
   },
   {
     "id": 7461,
     "type": "guest-to-host",
     "status": "published",
-    "rating": 9.8,
-    "publicReview": "Outstanding property! Every detail was thought through. Super clean, beautifully decorated, and in the best neighborhood. The concierge service was a nice touch. Highly recommend!",
+    "rating": 4.7,
+    "publicReview": "Absolutely loved this place! The location was perfect and the apartment was spotlessly clean. Host was very responsive and helpful throughout our stay.",
     "reviewCategory": [
-      {"category": "cleanliness", "rating": 10},
-      {"category": "communication", "rating": 10},
-      {"category": "respect_house_rules", "rating": 10},
-      {"category": "location", "rating": 10},
-      {"category": "value", "rating": 9}
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
     ],
-    "submittedAt": "2024-10-15 17:20:00",
-    "guestName": "Sophia Lewis",
-    "listingName": "2B N1 A - 29 Shoreditch Heights",
+    "submittedAt": "2025-11-05 16:38:44",
+    "guestName": "Jackson Powell",
+    "listingName": "Luxury Shoreditch Loft - The Flex London",
+    "listingId": "253093",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7521,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.2,
+    "publicReview": "Pleasant stay in a good location. The apartment was as described and the host was helpful with recommendations.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-11-04 16:38:44",
+    "guestName": "Mason Cooper",
+    "listingName": "Appartement Cozy et central a Paris - The Flex Paris",
+    "listingId": "253200",
+    "channel": "Google"
+  },
+  {
+    "id": 7499,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.3,
+    "publicReview": "Reasonable place to stay. Met basic needs but not as comfortable as hoped. Good location though.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-11-03 16:38:44",
+    "guestName": "Noah Bennett",
+    "listingName": "Bright Flat in Camberwell - The Flex London",
+    "listingId": "253097",
+    "channel": "Google"
+  },
+  {
+    "id": 7501,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3,
+    "publicReview": "Just okay. The apartment served its purpose but was quite basic. Price was fair for what you get.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 2
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-11-03 16:38:44",
+    "guestName": "Jack Turner",
+    "listingName": "Bright Flat in Camberwell - The Flex London",
+    "listingId": "253097",
+    "channel": "Direct"
+  },
+  {
+    "id": 7502,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 2.6,
+    "publicReview": "Standard apartment, nothing particularly great or bad. Clean enough and functional for our purposes.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-11-02 16:38:44",
+    "guestName": "Logan Murphy",
+    "listingName": "Bright Flat in Camberwell - The Flex London",
+    "listingId": "253097",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7602,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 3,
+    "publicReview": "Fair value for money. The apartment was decent but could use better maintenance. Location was the main positive.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 2
+      },
+      {
+        "category": "communication",
+        "rating": 2
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 2
+      }
+    ],
+    "submittedAt": "2025-11-02 16:38:44",
+    "guestName": "Aiden Jenkins",
+    "listingName": "Appartement Princier 3 pièces - The Flex Algiers",
+    "listingId": "253303",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7467,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Outstanding property! Every detail was thought through. Super clean, beautifully decorated, and in the best neighborhood.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-10-31 16:38:44",
+    "guestName": "Scarlett Rivera",
+    "listingName": "Covent Garden Studio - The Flex London",
+    "listingId": "253094",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7515,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.4,
+    "publicReview": "Solid choice for accommodation. The apartment was clean and had everything we needed. Check-in process was smooth.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-10-28 16:38:44",
+    "guestName": "Penelope Long",
+    "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London",
+    "listingId": "253098",
+    "channel": "Direct"
+  },
+  {
+    "id": 7601,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-10-28 16:38:44",
+    "guestName": "Dylan Stewart",
+    "listingName": "Appartement Princier 3 pièces - The Flex Algiers",
+    "listingId": "253303",
+    "channel": "Google"
+  },
+  {
+    "id": 7582,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Wonderful stay! The apartment was beautifully furnished and had everything we needed. Check-in was seamless and the location couldn't be better.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-10-27 16:38:44",
+    "guestName": "Madison Morris",
+    "listingName": "Spacieux Appartement à Hydra - The Flex Algiers",
+    "listingId": "253301",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7485,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 3.6,
+    "publicReview": "Nice stay overall. The apartment was well-maintained and the location was convenient. Would stay here again.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-10-24 15:38:44",
+    "guestName": "Christopher Lee",
+    "listingName": "Notting Hill Townhouse - The Flex London",
+    "listingId": "253095",
+    "channel": "Direct"
+  },
+  {
+    "id": 7547,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.3,
+    "publicReview": "Okay apartment, nothing special. It was clean and functional but lacking character. Good for a short stay.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 2
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-10-24 15:38:44",
+    "guestName": "Jessica Park",
+    "listingName": "Studio Moderne près du Louvre - The Flex Paris",
+    "listingId": "253202",
+    "channel": "Google"
+  },
+  {
+    "id": 7487,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.6,
+    "publicReview": "This place is incredible! Beautiful decor, spotlessly clean, and the perfect base for exploring the city.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-10-21 15:38:44",
+    "guestName": "Logan Murphy",
+    "listingName": "South Bank Penthouse - The Flex London",
+    "listingId": "253096",
+    "channel": "Google"
+  },
+  {
+    "id": 7586,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.7,
+    "publicReview": "Absolutely loved this place! The location was perfect and the apartment was spotlessly clean. Host was very responsive and helpful throughout our stay.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-10-20 15:38:44",
+    "guestName": "Joshua Martin",
+    "listingName": "Appartement de luxe à Hydra - The Flex Algiers",
+    "listingId": "253302",
+    "channel": "Direct"
+  },
+  {
+    "id": 7538,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Perfect location and absolutely beautiful apartment. Everything was exactly as described. The host was wonderful and very accommodating.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-10-18 15:38:44",
+    "guestName": "Michael Chen",
+    "listingName": "Studio Moderne près du Louvre - The Flex Paris",
+    "listingId": "253202",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7475,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.6,
+    "publicReview": "Perfect location and absolutely beautiful apartment. Everything was exactly as described. The host was wonderful and very accommodating.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-10-17 15:38:44",
+    "guestName": "Layla Reed",
+    "listingName": "Covent Garden Studio - The Flex London",
+    "listingId": "253094",
+    "channel": "Google"
+  },
+  {
+    "id": 7572,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.7,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-10-17 15:38:44",
+    "guestName": "Ryan Johnson",
+    "listingName": "Spacieux Appartement à Hydra - The Flex Algiers",
+    "listingId": "253301",
+    "channel": "Direct"
+  },
+  {
+    "id": 7592,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.6,
+    "publicReview": "Fantastic apartment! Very spacious and well-equipped. The bed was super comfortable. Would absolutely stay again on my next visit.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-10-16 15:38:44",
+    "guestName": "Jessica Park",
+    "listingName": "Appartement de luxe à Hydra - The Flex Algiers",
+    "listingId": "253302",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7541,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.5,
+    "publicReview": "This place is incredible! Beautiful decor, spotlessly clean, and the perfect base for exploring the city.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-10-15 15:38:44",
+    "guestName": "Hannah Hall",
+    "listingName": "Studio Moderne près du Louvre - The Flex Paris",
+    "listingId": "253202",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7531,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 3.4,
+    "publicReview": "Standard apartment, nothing particularly great or bad. Clean enough and functional for our purposes.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 2
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 2
+      }
+    ],
+    "submittedAt": "2025-10-12 15:38:44",
+    "guestName": "Noah Bennett",
+    "listingName": "Luxueux Appartement Parisien - Champs-Élysées - The Flex Paris",
+    "listingId": "253201",
+    "channel": "Google"
+  },
+  {
+    "id": 7552,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.5,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-10-03 15:38:44",
+    "guestName": "Layla Reed",
+    "listingName": "Appartement avec Vue sur la Tour Eiffel - The Flex Paris",
+    "listingId": "253203",
+    "channel": "Direct"
+  },
+  {
+    "id": 7588,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.3,
+    "publicReview": "Nice stay overall. The apartment was well-maintained and the location was convenient. Would stay here again.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-10-03 15:38:44",
+    "guestName": "Madison Morris",
+    "listingName": "Appartement de luxe à Hydra - The Flex Algiers",
+    "listingId": "253302",
+    "channel": "Direct"
+  },
+  {
+    "id": 7460,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.5,
+    "publicReview": "Couldn't have asked for a better place to stay. The apartment was pristine, modern, and in an excellent location.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-10-02 15:38:44",
+    "guestName": "Nathan Wright",
+    "listingName": "Luxury Shoreditch Loft - The Flex London",
+    "listingId": "253093",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7585,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.9,
+    "publicReview": "Fantastic apartment! Very spacious and well-equipped. The bed was super comfortable. Would absolutely stay again on my next visit.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-10-02 15:38:44",
+    "guestName": "Emma Thompson",
+    "listingName": "Appartement de luxe à Hydra - The Flex Algiers",
+    "listingId": "253302",
+    "channel": "Google"
+  },
+  {
+    "id": 7456,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Outstanding property! Every detail was thought through. Super clean, beautifully decorated, and in the best neighborhood.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-09-30 15:38:44",
+    "guestName": "Samuel Green",
+    "listingName": "Luxury Shoreditch Loft - The Flex London",
     "listingId": "253093",
     "channel": "Airbnb"
   },
   {
-    "id": 7462,
+    "id": 7471,
     "type": "guest-to-host",
     "status": "published",
-    "rating": 7.8,
-    "publicReview": "Nice place, decent location. The apartment was clean but felt a bit cramped for two people. Good for a short stay but might be tight for longer visits. WiFi was excellent though!",
+    "rating": 3,
+    "publicReview": "Fair value for money. The apartment was decent but could use better maintenance. Location was the main positive.",
     "reviewCategory": [
-      {"category": "cleanliness", "rating": 8},
-      {"category": "communication", "rating": 8},
-      {"category": "respect_house_rules", "rating": 8},
-      {"category": "location", "rating": 8},
-      {"category": "value", "rating": 7}
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 2
+      }
     ],
-    "submittedAt": "2024-10-10 09:30:00",
-    "guestName": "Daniel Kim",
-    "listingName": "1B E2 C - London Fields Loft",
+    "submittedAt": "2025-09-28 15:38:44",
+    "guestName": "Jessica Park",
+    "listingName": "Covent Garden Studio - The Flex London",
     "listingId": "253094",
+    "channel": "Google"
+  },
+  {
+    "id": 7477,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-09-28 15:38:44",
+    "guestName": "Charlotte Moore",
+    "listingName": "Notting Hill Townhouse - The Flex London",
+    "listingId": "253095",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7490,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.3,
+    "publicReview": "Mixed feelings about this place. Location is good but the apartment needs updates. Host was responsive at least.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 2
+      },
+      {
+        "category": "value",
+        "rating": 2
+      }
+    ],
+    "submittedAt": "2025-09-28 15:38:44",
+    "guestName": "Ethan Walker",
+    "listingName": "South Bank Penthouse - The Flex London",
+    "listingId": "253096",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7600,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.9,
+    "publicReview": "Wonderful stay! The apartment was beautifully furnished and had everything we needed. Check-in was seamless and the location couldn't be better.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-09-28 15:38:44",
+    "guestName": "Sebastian Ward",
+    "listingName": "Appartement Princier 3 pièces - The Flex Algiers",
+    "listingId": "253303",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7494,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 2.9,
+    "publicReview": "Fair value for money. The apartment was decent but could use better maintenance. Location was the main positive.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 2
+      },
+      {
+        "category": "value",
+        "rating": 2
+      }
+    ],
+    "submittedAt": "2025-09-27 15:38:44",
+    "guestName": "Thomas Anderson",
+    "listingName": "South Bank Penthouse - The Flex London",
+    "listingId": "253096",
+    "channel": "Direct"
+  },
+  {
+    "id": 7496,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Wonderful stay! The apartment was beautifully furnished and had everything we needed. Check-in was seamless and the location couldn't be better.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-09-27 15:38:44",
+    "guestName": "Sebastian Ward",
+    "listingName": "South Bank Penthouse - The Flex London",
+    "listingId": "253096",
+    "channel": "Direct"
+  },
+  {
+    "id": 7498,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-09-26 15:38:44",
+    "guestName": "Hazel Perry",
+    "listingName": "Bright Flat in Camberwell - The Flex London",
+    "listingId": "253097",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7549,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.3,
+    "publicReview": "Nice stay overall. The apartment was well-maintained and the location was convenient. Would stay here again.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-09-26 15:38:44",
+    "guestName": "Ella Scott",
+    "listingName": "Studio Moderne près du Louvre - The Flex Paris",
+    "listingId": "253202",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7559,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.9,
+    "publicReview": "Perfect location and absolutely beautiful apartment. Everything was exactly as described. The host was wonderful and very accommodating.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-09-26 15:38:44",
+    "guestName": "Evelyn Russell",
+    "listingName": "Appartement avec Vue sur la Tour Eiffel - The Flex Paris",
+    "listingId": "253203",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7482,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 3.8,
+    "publicReview": "Nice place with good facilities. The location is excellent for getting around. Would recommend to friends.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-09-24 15:38:44",
+    "guestName": "Benjamin Adams",
+    "listingName": "Notting Hill Townhouse - The Flex London",
+    "listingId": "253095",
+    "channel": "Direct"
+  },
+  {
+    "id": 7454,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Absolutely loved this place! The location was perfect and the apartment was spotlessly clean. Host was very responsive and helpful throughout our stay.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-09-21 15:38:44",
+    "guestName": "Benjamin Adams",
+    "listingName": "Luxury Shoreditch Loft - The Flex London",
+    "listingId": "253093",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7455,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.5,
+    "publicReview": "Fantastic apartment! Very spacious and well-equipped. The bed was super comfortable. Would absolutely stay again on my next visit.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-09-19 15:38:44",
+    "guestName": "Emma Thompson",
+    "listingName": "Luxury Shoreditch Loft - The Flex London",
+    "listingId": "253093",
+    "channel": "Direct"
+  },
+  {
+    "id": 7486,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.8,
+    "publicReview": "Comfortable apartment with a great location. Minor issues with WiFi but otherwise everything was good.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-09-17 15:38:44",
+    "guestName": "Alexander Baker",
+    "listingName": "South Bank Penthouse - The Flex London",
+    "listingId": "253096",
+    "channel": "Google"
+  },
+  {
+    "id": 7584,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.5,
+    "publicReview": "Wonderful stay! The apartment was beautifully furnished and had everything we needed. Check-in was seamless and the location couldn't be better.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-09-13 15:38:44",
+    "guestName": "Sophia Lewis",
+    "listingName": "Appartement de luxe à Hydra - The Flex Algiers",
+    "listingId": "253302",
+    "channel": "Google"
+  },
+  {
+    "id": 7505,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.6,
+    "publicReview": "Nice place with good facilities. The location is excellent for getting around. Would recommend to friends.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-09-12 15:38:44",
+    "guestName": "Sophia Lewis",
+    "listingName": "Bright Flat in Camberwell - The Flex London",
+    "listingId": "253097",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7525,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.1,
+    "publicReview": "Really enjoyed our time here. The space was clean, modern, and comfortable. Only minor complaint was noise on weekends.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-09-10 15:38:44",
+    "guestName": "Dylan Stewart",
+    "listingName": "Appartement Cozy et central a Paris - The Flex Paris",
+    "listingId": "253200",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7575,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.8,
+    "publicReview": "Couldn't have asked for a better place to stay. The apartment was pristine, modern, and in an excellent location.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-09-10 15:38:44",
+    "guestName": "Aria Collins",
+    "listingName": "Spacieux Appartement à Hydra - The Flex Algiers",
+    "listingId": "253301",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7574,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-09-09 15:38:44",
+    "guestName": "Penelope Long",
+    "listingName": "Spacieux Appartement à Hydra - The Flex Algiers",
+    "listingId": "253301",
+    "channel": "Direct"
+  },
+  {
+    "id": 7576,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-09-09 15:38:44",
+    "guestName": "Nora Howard",
+    "listingName": "Spacieux Appartement à Hydra - The Flex Algiers",
+    "listingId": "253301",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7534,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.7,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-09-07 15:38:44",
+    "guestName": "Michael Chen",
+    "listingName": "Luxueux Appartement Parisien - Champs-Élysées - The Flex Paris",
+    "listingId": "253201",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7578,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.2,
+    "publicReview": "Good experience overall. The apartment matched the photos and was in a convenient location. Host was quick to respond.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-09-07 15:38:44",
+    "guestName": "Ryan Johnson",
+    "listingName": "Spacieux Appartement à Hydra - The Flex Algiers",
+    "listingId": "253301",
+    "channel": "Direct"
+  },
+  {
+    "id": 7589,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Exceptional experience from start to finish. The property exceeded our expectations in every way. Modern, stylish, and incredibly well-maintained.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-09-07 15:38:44",
+    "guestName": "Carter Patterson",
+    "listingName": "Appartement de luxe à Hydra - The Flex Algiers",
+    "listingId": "253302",
+    "channel": "Direct"
+  },
+  {
+    "id": 7564,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Absolutely loved this place! The location was perfect and the apartment was spotlessly clean. Host was very responsive and helpful throughout our stay.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-09-06 15:38:44",
+    "guestName": "Nora Howard",
+    "listingName": "Luxueux 2 pièces rénové aux Sources - The Flex Algiers",
+    "listingId": "253300",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7530,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.6,
+    "publicReview": "Fantastic apartment! Very spacious and well-equipped. The bed was super comfortable. Would absolutely stay again on my next visit.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-09-04 15:38:44",
+    "guestName": "Elijah Barnes",
+    "listingName": "Luxueux Appartement Parisien - Champs-Élysées - The Flex Paris",
+    "listingId": "253201",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7511,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.7,
+    "publicReview": "Couldn't have asked for a better place to stay. The apartment was pristine, modern, and in an excellent location.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-09-03 15:38:44",
+    "guestName": "Charlotte Moore",
+    "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London",
+    "listingId": "253098",
+    "channel": "Google"
+  },
+  {
+    "id": 7514,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.6,
+    "publicReview": "Well-maintained apartment in a convenient area. Good value for money and the host was responsive.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-31 15:38:44",
+    "guestName": "Layla Reed",
+    "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London",
+    "listingId": "253098",
+    "channel": "Direct"
+  },
+  {
+    "id": 7512,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.4,
+    "publicReview": "Comfortable apartment with a great location. Minor issues with WiFi but otherwise everything was good.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-08-30 15:38:44",
+    "guestName": "Jacob Bailey",
+    "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London",
+    "listingId": "253098",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7596,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.6,
+    "publicReview": "Perfect location and absolutely beautiful apartment. Everything was exactly as described. The host was wonderful and very accommodating.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-30 15:38:44",
+    "guestName": "Luna Myers",
+    "listingName": "Appartement Princier 3 pièces - The Flex Algiers",
+    "listingId": "253303",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7563,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.6,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-29 15:38:44",
+    "guestName": "Luna Myers",
+    "listingName": "Luxueux 2 pièces rénové aux Sources - The Flex Algiers",
+    "listingId": "253300",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7483,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "This place is incredible! Beautiful decor, spotlessly clean, and the perfect base for exploring the city.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-08-26 15:38:44",
+    "guestName": "Elijah Barnes",
+    "listingName": "Notting Hill Townhouse - The Flex London",
+    "listingId": "253095",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7476,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Exceptional experience from start to finish. The property exceeded our expectations in every way. Modern, stylish, and incredibly well-maintained.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-08-25 15:38:44",
+    "guestName": "Emma Thompson",
+    "listingName": "Notting Hill Townhouse - The Flex London",
+    "listingId": "253095",
+    "channel": "Google"
+  },
+  {
+    "id": 7500,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.3,
+    "publicReview": "Comfortable apartment with a great location. Minor issues with WiFi but otherwise everything was good.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-25 15:38:44",
+    "guestName": "James Wilson",
+    "listingName": "Bright Flat in Camberwell - The Flex London",
+    "listingId": "253097",
+    "channel": "Google"
+  },
+  {
+    "id": 7528,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.9,
+    "publicReview": "Great apartment in a fantastic location. A few minor issues but overall a very comfortable stay. Would definitely recommend.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-24 15:38:44",
+    "guestName": "Evelyn Russell",
+    "listingName": "Luxueux Appartement Parisien - Champs-Élysées - The Flex Paris",
+    "listingId": "253201",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7535,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-24 15:38:44",
+    "guestName": "Harper Robinson",
+    "listingName": "Luxueux Appartement Parisien - Champs-Élysées - The Flex Paris",
+    "listingId": "253201",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7595,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.6,
+    "publicReview": "Fantastic apartment! Very spacious and well-equipped. The bed was super comfortable. Would absolutely stay again on my next visit.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-08-23 15:38:44",
+    "guestName": "Alexander Baker",
+    "listingName": "Appartement Princier 3 pièces - The Flex Algiers",
+    "listingId": "253303",
+    "channel": "Google"
+  },
+  {
+    "id": 7504,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-08-19 15:38:44",
+    "guestName": "Dylan Stewart",
+    "listingName": "Bright Flat in Camberwell - The Flex London",
+    "listingId": "253097",
+    "channel": "Direct"
+  },
+  {
+    "id": 7533,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.5,
+    "publicReview": "Great apartment in a fantastic location. A few minor issues but overall a very comfortable stay. Would definitely recommend.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-19 15:38:44",
+    "guestName": "Sebastian Ward",
+    "listingName": "Luxueux Appartement Parisien - Champs-Élysées - The Flex Paris",
+    "listingId": "253201",
+    "channel": "Direct"
+  },
+  {
+    "id": 7544,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Perfect location and absolutely beautiful apartment. Everything was exactly as described. The host was wonderful and very accommodating.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-08-19 15:38:44",
+    "guestName": "Isabella Garcia",
+    "listingName": "Studio Moderne près du Louvre - The Flex Paris",
+    "listingId": "253202",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7516,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.9,
+    "publicReview": "Really enjoyed our time here. The space was clean, modern, and comfortable. Only minor complaint was noise on weekends.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-08-18 15:38:44",
+    "guestName": "Grace King",
+    "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London",
+    "listingId": "253098",
+    "channel": "Direct"
+  },
+  {
+    "id": 7569,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 3.5,
+    "publicReview": "Good experience overall. The apartment matched the photos and was in a convenient location. Host was quick to respond.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-08-16 15:38:44",
+    "guestName": "Mason Cooper",
+    "listingName": "Luxueux 2 pièces rénové aux Sources - The Flex Algiers",
+    "listingId": "253300",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7543,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "This place is incredible! Beautiful decor, spotlessly clean, and the perfect base for exploring the city.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-15 15:38:44",
+    "guestName": "William Hill",
+    "listingName": "Studio Moderne près du Louvre - The Flex Paris",
+    "listingId": "253202",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7568,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.5,
+    "publicReview": "Nice place with good facilities. The location is excellent for getting around. Would recommend to friends.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-08-15 15:38:44",
+    "guestName": "James Wilson",
+    "listingName": "Luxueux 2 pièces rénové aux Sources - The Flex Algiers",
+    "listingId": "253300",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7478,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Couldn't have asked for a better place to stay. The apartment was pristine, modern, and in an excellent location.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-13 15:38:44",
+    "guestName": "Joshua Martin",
+    "listingName": "Notting Hill Townhouse - The Flex London",
+    "listingId": "253095",
+    "channel": "Google"
+  },
+  {
+    "id": 7480,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Outstanding property! Every detail was thought through. Super clean, beautifully decorated, and in the best neighborhood.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-13 15:38:44",
+    "guestName": "Isabella Garcia",
+    "listingName": "Notting Hill Townhouse - The Flex London",
+    "listingId": "253095",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7484,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 5,
+    "publicReview": "Wonderful stay! The apartment was beautifully furnished and had everything we needed. Check-in was seamless and the location couldn't be better.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-13 15:38:44",
+    "guestName": "Hannah Hall",
+    "listingName": "Notting Hill Townhouse - The Flex London",
+    "listingId": "253095",
+    "channel": "Direct"
+  },
+  {
+    "id": 7463,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-10 15:38:44",
+    "guestName": "Joshua Martin",
+    "listingName": "Luxury Shoreditch Loft - The Flex London",
+    "listingId": "253093",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7489,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.5,
+    "publicReview": "Couldn't have asked for a better place to stay. The apartment was pristine, modern, and in an excellent location.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-08-08 15:38:44",
+    "guestName": "Ella Scott",
+    "listingName": "South Bank Penthouse - The Flex London",
+    "listingId": "253096",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7565,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.7,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-07 15:38:44",
+    "guestName": "Emma Thompson",
+    "listingName": "Luxueux 2 pièces rénové aux Sources - The Flex Algiers",
+    "listingId": "253300",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7468,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.1,
+    "publicReview": "Great apartment in a fantastic location. A few minor issues but overall a very comfortable stay. Would definitely recommend.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-06 15:38:44",
+    "guestName": "Michael Chen",
+    "listingName": "Covent Garden Studio - The Flex London",
+    "listingId": "253094",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7488,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.4,
+    "publicReview": "Lovely apartment with good amenities. Clean and comfortable. The area is great with lots of restaurants nearby.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-05 15:38:44",
+    "guestName": "Nora Howard",
+    "listingName": "South Bank Penthouse - The Flex London",
+    "listingId": "253096",
+    "channel": "Google"
+  },
+  {
+    "id": 7457,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.9,
+    "publicReview": "Really enjoyed our time here. The space was clean, modern, and comfortable. Only minor complaint was noise on weekends.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-08-04 15:38:44",
+    "guestName": "Amelia Harris",
+    "listingName": "Luxury Shoreditch Loft - The Flex London",
+    "listingId": "253093",
+    "channel": "Google"
+  },
+  {
+    "id": 7507,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.6,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-02 15:38:44",
+    "guestName": "Logan Murphy",
+    "listingName": "Bright Flat in Camberwell - The Flex London",
+    "listingId": "253097",
+    "channel": "Direct"
+  },
+  {
+    "id": 7566,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "This place is incredible! Beautiful decor, spotlessly clean, and the perfect base for exploring the city.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-02 15:38:44",
+    "guestName": "Nathan Wright",
+    "listingName": "Luxueux 2 pièces rénové aux Sources - The Flex Algiers",
+    "listingId": "253300",
+    "channel": "Direct"
+  },
+  {
+    "id": 7508,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Exceptional experience from start to finish. The property exceeded our expectations in every way. Modern, stylish, and incredibly well-maintained.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-08-01 15:38:44",
+    "guestName": "Grace King",
+    "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London",
+    "listingId": "253098",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7562,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 2.7,
+    "publicReview": "Reasonable place to stay. Met basic needs but not as comfortable as hoped. Good location though.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-08-01 15:38:44",
+    "guestName": "Hannah Hall",
+    "listingName": "Luxueux 2 pièces rénové aux Sources - The Flex Algiers",
+    "listingId": "253300",
+    "channel": "Direct"
+  },
+  {
+    "id": 7519,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Absolutely loved this place! The location was perfect and the apartment was spotlessly clean. Host was very responsive and helpful throughout our stay.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-07-27 15:38:44",
+    "guestName": "Penelope Long",
+    "listingName": "Appartement Cozy et central a Paris - The Flex Paris",
+    "listingId": "253200",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7560,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.5,
+    "publicReview": "Fantastic apartment! Very spacious and well-equipped. The bed was super comfortable. Would absolutely stay again on my next visit.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-07-26 15:38:44",
+    "guestName": "Hazel Perry",
+    "listingName": "Luxueux 2 pièces rénové aux Sources - The Flex Algiers",
+    "listingId": "253300",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7591,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.4,
+    "publicReview": "Nice place with good facilities. The location is excellent for getting around. Would recommend to friends.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-07-26 15:38:44",
+    "guestName": "Aiden Jenkins",
+    "listingName": "Appartement de luxe à Hydra - The Flex Algiers",
+    "listingId": "253302",
+    "channel": "Direct"
+  },
+  {
+    "id": 7545,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 2.6,
+    "publicReview": "Just okay. The apartment served its purpose but was quite basic. Price was fair for what you get.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 2
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 2
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-07-25 15:38:44",
+    "guestName": "Liam Sanders",
+    "listingName": "Studio Moderne près du Louvre - The Flex Paris",
+    "listingId": "253202",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7593,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.6,
+    "publicReview": "Fantastic apartment! Very spacious and well-equipped. The bed was super comfortable. Would absolutely stay again on my next visit.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-23 15:38:44",
+    "guestName": "Mason Cooper",
+    "listingName": "Appartement de luxe à Hydra - The Flex Algiers",
+    "listingId": "253302",
+    "channel": "Direct"
+  },
+  {
+    "id": 7536,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 3.7,
+    "publicReview": "Pleasant stay in a good location. The apartment was as described and the host was helpful with recommendations.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-07-20 15:38:44",
+    "guestName": "Lily Nelson",
+    "listingName": "Luxueux Appartement Parisien - Champs-Élysées - The Flex Paris",
+    "listingId": "253201",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7470,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.7,
+    "publicReview": "Lovely apartment with good amenities. Clean and comfortable. The area is great with lots of restaurants nearby.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-17 15:38:44",
+    "guestName": "Ryan Johnson",
+    "listingName": "Covent Garden Studio - The Flex London",
+    "listingId": "253094",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7472,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-16 15:38:44",
+    "guestName": "Liam Sanders",
+    "listingName": "Covent Garden Studio - The Flex London",
+    "listingId": "253094",
+    "channel": "Direct"
+  },
+  {
+    "id": 7469,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Wonderful stay! The apartment was beautifully furnished and had everything we needed. Check-in was seamless and the location couldn't be better.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-07-15 15:38:44",
+    "guestName": "Ava Brown",
+    "listingName": "Covent Garden Studio - The Flex London",
+    "listingId": "253094",
+    "channel": "Google"
+  },
+  {
+    "id": 7510,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.9,
+    "publicReview": "Really enjoyed our time here. The space was clean, modern, and comfortable. Only minor complaint was noise on weekends.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-13 15:38:44",
+    "guestName": "Hazel Perry",
+    "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London",
+    "listingId": "253098",
+    "channel": "Direct"
+  },
+  {
+    "id": 7550,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.7,
+    "publicReview": "Wonderful stay! The apartment was beautifully furnished and had everything we needed. Check-in was seamless and the location couldn't be better.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-13 15:38:44",
+    "guestName": "Ryan Johnson",
+    "listingName": "Appartement avec Vue sur la Tour Eiffel - The Flex Paris",
+    "listingId": "253203",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7577,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.5,
+    "publicReview": "Outstanding property! Every detail was thought through. Super clean, beautifully decorated, and in the best neighborhood.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-13 15:38:44",
+    "guestName": "Aiden Jenkins",
+    "listingName": "Spacieux Appartement à Hydra - The Flex Algiers",
+    "listingId": "253301",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7479,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.5,
+    "publicReview": "Absolutely loved this place! The location was perfect and the apartment was spotlessly clean. Host was very responsive and helpful throughout our stay.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-12 15:38:44",
+    "guestName": "Scarlett Rivera",
+    "listingName": "Notting Hill Townhouse - The Flex London",
+    "listingId": "253095",
+    "channel": "Direct"
+  },
+  {
+    "id": 7561,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Outstanding property! Every detail was thought through. Super clean, beautifully decorated, and in the best neighborhood.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-12 15:38:44",
+    "guestName": "Benjamin Adams",
+    "listingName": "Luxueux 2 pièces rénové aux Sources - The Flex Algiers",
+    "listingId": "253300",
+    "channel": "Direct"
+  },
+  {
+    "id": 7583,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.7,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-12 15:38:44",
+    "guestName": "Scarlett Rivera",
+    "listingName": "Appartement de luxe à Hydra - The Flex Algiers",
+    "listingId": "253302",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7573,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-11 15:38:44",
+    "guestName": "William Hill",
+    "listingName": "Spacieux Appartement à Hydra - The Flex Algiers",
+    "listingId": "253301",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7542,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Perfect location and absolutely beautiful apartment. Everything was exactly as described. The host was wonderful and very accommodating.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-10 15:38:44",
+    "guestName": "David Rodriguez",
+    "listingName": "Studio Moderne près du Louvre - The Flex Paris",
+    "listingId": "253202",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7603,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.2,
+    "publicReview": "Mixed feelings about this place. Location is good but the apartment needs updates. Host was responsive at least.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 3
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-07-09 15:38:44",
+    "guestName": "Jessica Park",
+    "listingName": "Appartement Princier 3 pièces - The Flex Algiers",
+    "listingId": "253303",
+    "channel": "Direct"
+  },
+  {
+    "id": 7539,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.5,
+    "publicReview": "Absolutely loved this place! The location was perfect and the apartment was spotlessly clean. Host was very responsive and helpful throughout our stay.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-07-07 15:38:44",
+    "guestName": "Sebastian Ward",
+    "listingName": "Studio Moderne près du Louvre - The Flex Paris",
+    "listingId": "253202",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7590,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.4,
+    "publicReview": "Nice stay overall. The apartment was well-maintained and the location was convenient. Would stay here again.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 3
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-06 15:38:44",
+    "guestName": "Christopher Lee",
+    "listingName": "Appartement de luxe à Hydra - The Flex Algiers",
+    "listingId": "253302",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7594,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.8,
+    "publicReview": "Comfortable apartment with a great location. Minor issues with WiFi but otherwise everything was good.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-07-06 15:38:44",
+    "guestName": "Addison Foster",
+    "listingName": "Appartement Princier 3 pièces - The Flex Algiers",
+    "listingId": "253303",
+    "channel": "Airbnb"
+  },
+  {
+    "id": 7513,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.7,
+    "publicReview": "Amazing stay! The apartment is stunning, clean, and has all the amenities you could need. Great communication from the host.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-07-03 15:38:44",
+    "guestName": "Emma Thompson",
+    "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London",
+    "listingId": "253098",
+    "channel": "Google"
+  },
+  {
+    "id": 7522,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.6,
+    "publicReview": "Really enjoyed our time here. The space was clean, modern, and comfortable. Only minor complaint was noise on weekends.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-07-02 15:38:44",
+    "guestName": "Michael Chen",
+    "listingName": "Appartement Cozy et central a Paris - The Flex Paris",
+    "listingId": "253200",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7509,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.6,
+    "publicReview": "Outstanding property! Every detail was thought through. Super clean, beautifully decorated, and in the best neighborhood.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-06-28 15:38:44",
+    "guestName": "Jessica Park",
+    "listingName": "Charming 2 Bed Flat in the Heart of Camden - The Flex London",
+    "listingId": "253098",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7581,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.9,
+    "publicReview": "Couldn't have asked for a better place to stay. The apartment was pristine, modern, and in an excellent location.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 5
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-06-28 15:38:44",
+    "guestName": "Matthew Taylor",
+    "listingName": "Spacieux Appartement à Hydra - The Flex Algiers",
+    "listingId": "253301",
+    "channel": "Direct"
+  },
+  {
+    "id": 7553,
+    "type": "guest-to-host",
+    "status": "pending",
+    "rating": 4.5,
+    "publicReview": "Wonderful stay! The apartment was beautifully furnished and had everything we needed. Check-in was seamless and the location couldn't be better.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 4
+      }
+    ],
+    "submittedAt": "2025-06-26 15:38:44",
+    "guestName": "Aubrey Wood",
+    "listingName": "Appartement avec Vue sur la Tour Eiffel - The Flex Paris",
+    "listingId": "253203",
+    "channel": "Google"
+  },
+  {
+    "id": 7567,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.8,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 4
+      },
+      {
+        "category": "location",
+        "rating": 5
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-06-25 15:38:44",
+    "guestName": "Penelope Long",
+    "listingName": "Luxueux 2 pièces rénové aux Sources - The Flex Algiers",
+    "listingId": "253300",
+    "channel": "Booking.com"
+  },
+  {
+    "id": 7527,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3.5,
+    "publicReview": "Comfortable apartment with a great location. Minor issues with WiFi but otherwise everything was good.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 4
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 3
+      },
+      {
+        "category": "location",
+        "rating": 3
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-06-24 15:38:44",
+    "guestName": "Evelyn Russell",
+    "listingName": "Appartement Cozy et central a Paris - The Flex Paris",
+    "listingId": "253200",
+    "channel": "Direct"
+  },
+  {
+    "id": 7459,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4,
+    "publicReview": "Nice stay overall. The apartment was well-maintained and the location was convenient. Would stay here again.",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 3
+      }
+    ],
+    "submittedAt": "2025-06-22 15:38:44",
+    "guestName": "Nathan Wright",
+    "listingName": "Luxury Shoreditch Loft - The Flex London",
+    "listingId": "253093",
+    "channel": "Direct"
+  },
+  {
+    "id": 7548,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4.7,
+    "publicReview": "Exceptional apartment in a prime location. Everything was perfect from check-in to check-out. Highly recommend!",
+    "reviewCategory": [
+      {
+        "category": "cleanliness",
+        "rating": 5
+      },
+      {
+        "category": "communication",
+        "rating": 4
+      },
+      {
+        "category": "respect_house_rules",
+        "rating": 5
+      },
+      {
+        "category": "location",
+        "rating": 4
+      },
+      {
+        "category": "value",
+        "rating": 5
+      }
+    ],
+    "submittedAt": "2025-06-22 15:38:44",
+    "guestName": "Sebastian Ward",
+    "listingName": "Studio Moderne près du Louvre - The Flex Paris",
+    "listingId": "253202",
     "channel": "Booking.com"
   }
 ]

@@ -23,8 +23,8 @@ async function setupDatabase() {
 
   try {
     // Drop existing table if needed (comment out in production)
-    // await client.sql`DROP TABLE IF EXISTS reviews CASCADE`;
-    // console.log('✓ Dropped existing table');
+    await client.sql`DROP TABLE IF EXISTS reviews CASCADE`;
+    console.log('✓ Dropped existing table');
 
     // Create reviews table
     await client.sql`
