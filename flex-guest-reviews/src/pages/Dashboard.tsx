@@ -37,7 +37,7 @@ const initialFilters: FilterState = {
   listingId: 'all',
   dateRange: undefined,
 };
-
+//filter by loc
 const locationFilters = ['london', 'paris', 'algiers'];
 
 export default function Dashboard() {
